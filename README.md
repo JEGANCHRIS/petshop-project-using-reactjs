@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 - to install reactjs : `npm create vite@latest`
 - npm install : `npm install`
 - run command : `npm run dev`
+- install bootstrap : `npm i bootstrap@5.3.3`
 
 
